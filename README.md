@@ -1,6 +1,6 @@
 # pencil-sketch-rs
 
-Create pencil sketched images from RGB images
+#### Create pencil sketched images from RGB images
 
 |![](./assets/t1.jpg)|![](./assets/t1_pencil_sketch.jpg)|![](./assets/t2.jpg)|![](./assets/t2_pencil_sketch.jpg)|
 |-----------|------------|----------|---------------|
