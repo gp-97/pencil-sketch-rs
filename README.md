@@ -1,4 +1,5 @@
 # pencil-sketch-rs
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
 
 #### Create pencil sketched images from RGB images
 
