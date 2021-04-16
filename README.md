@@ -1,6 +1,8 @@
 # pencil-sketch-rs
 [![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
 
+Convert images to their pencil sketch equivalent.
+
 #### Create pencil sketched images from RGB images
 
 |![](./assets/t1.jpg)|![](./assets/t1_pencil_sketch.jpg)|![](./assets/t2.jpg)|![](./assets/t2_pencil_sketch.jpg)|
